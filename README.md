@@ -1,1 +1,1 @@
-https://git.heroku.com/afternoon-mesa-14982.git
+https://afternoon-mesa-14982.herokuapp.com/
